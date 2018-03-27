@@ -1,5 +1,5 @@
 ---
-title: 'Technical Foundations of Informatics'
+title: 'Edit'
 author: "[Michael Freeman](http://mfviz.com/#/) and [Joel Ross](http://faculty.washington.edu/joelross/)"
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
 description: 'The course reader for INFO 201: Technical Foundations of Informatics.'
